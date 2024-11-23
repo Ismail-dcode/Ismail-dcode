@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaikh Ismail</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **AI & ML , GEN AI**
+- 🌱 I’m currently learning **AI & ML , GEN AI , New Technologies**
 
 - 👨‍💻 All of my projects are available at [https://ismail-dcode.github.io/myNewproject/](https://ismail-dcode.github.io/myNewproject/)
 
