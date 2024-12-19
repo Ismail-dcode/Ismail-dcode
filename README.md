@@ -12,8 +12,8 @@
 
 <br>
 
-- 🌱 I’m currently learning **AI & ML , GEN AI , New Technologies**
-
+- 🌱 I’m currently learning **AI & ML , GEN AI , New Technologies** <br><br>
+- **GPT , Co-Pilot , Gemeni , Img/video Genration**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ismail shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail shaikh" height="30" width="40" /></a>
