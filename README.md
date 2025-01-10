@@ -3,7 +3,7 @@
 
 <h2 align="center">A passionate developer from India</h2>
 
-### Web Developer | Student (Pursuing Bachelor's Degree in Computer Science)
+### Developer | Student (Pursuing Bachelor's Degree in Computer Science)
 
 #### Portfolio: [Ismail's Portfolio](https://ismail-dcode.github.io/Myportfolio/)
 
