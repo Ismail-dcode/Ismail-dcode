@@ -1,7 +1,7 @@
 
 # Hey There, I am Shaikh Ismail.
 
-<h2 align="center">A passionate developer from India</h2>
+<h2 align="center">A passionate developer from India.</h2>
 
 ### Developer | Student (Pursuing Bachelor's Degree in Computer Science)
 
@@ -16,7 +16,7 @@
 
 #### LinkedIn : [LinkedIn Profile ](https://www.linkedin.com/in/ismail-shaikh-19798a335/)
 
-###   Gmail : ismailpromt2i@gmail.com
+### Contact Gmail : ismailpromt2i@gmail.com
 
 <br>
 
