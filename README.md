@@ -39,7 +39,6 @@
 ### 🌱 I’m currently learning AI concept[GEN AI ] New Technologies:
 <div align="start">
   <img height="200" src="https://github.com/Ismail-dcode/Ismail-dcode/blob/main/lP+HyEc8CioJeoHQtdwFb9Buvd_cLUlAUZZePewC7sQ=.png?raw=true"  />
-  <img height="200" src="https://github.com/Ismail-dcode/Ismail-dcode/blob/main/CertificateOfCompletion_What%20Is%20Generative%20AI%20(1)_page-0001.jpg?raw=true"  />
 </div>
 
 
