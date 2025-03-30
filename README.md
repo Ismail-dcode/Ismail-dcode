@@ -3,6 +3,8 @@
 
 <h2 align="center">A passionate developer from India.</h2>
 
+
+
 ### Developer | Student (Pursuing Bachelor's Degree in Computer Science)
 
 <br>
