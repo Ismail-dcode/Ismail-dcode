@@ -20,6 +20,8 @@
 
 ### Contact Gmail : ismailpromt2i@gmail.com
 
+
+
 <br>
 
 # Languages and Tools:
@@ -34,9 +36,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ismail-dcode&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-dcode&theme=dark&hide_border=false&include&layout=compact)
 
-<br>
-- 🌱 I’m currently learning **AI & ML , GEN AI , New Technologies** <br><br>
-- **GPT , Co-Pilot , Gemeni , Img/video Genration**
+### 🌱 I’m currently learning AI concept[GEN AI ] New Technologies:
+<div align="start">
+  <img height="200" src="https://github.com/Ismail-dcode/Ismail-dcode/blob/main/lP+HyEc8CioJeoHQtdwFb9Buvd_cLUlAUZZePewC7sQ=.png?raw=true"  />
+  <img height="200" src="https://github.com/Ismail-dcode/Ismail-dcode/blob/main/CertificateOfCompletion_What%20Is%20Generative%20AI%20(1)_page-0001.jpg?raw=true"  />
+</div>
 
 
 
