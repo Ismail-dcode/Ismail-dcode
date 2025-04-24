@@ -33,6 +33,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Ismail-dcode&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ismail-dcode&theme=dark&hide_border=false&cache_seconds=60)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ismail-dcode&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-dcode&theme=dark&hide_border=false&include&layout=compact)
 
