@@ -5,7 +5,7 @@
 
 
 
-### Developer | Student (Pursuing Bachelor's Degree in Computer Science)
+### Developer | Student (Pursuing Bachelor's Degree in Computer Science) - Expected ( 2027 )
 
 <br>
 
