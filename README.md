@@ -7,7 +7,7 @@
 
 #  Lets Connect :
 
-#### Portfolio: [Ismail's Portfolio](https://ismail-dcode.github.io/Myportfolio/)
+#### Portfolio: [Ismail's Portfolio](https://ismail-shaikh.vercel.app/)
 
 #### X-twitter : [X-twitter](https://x.com/Ismail_dcode/)
 
