@@ -1,5 +1,5 @@
 
-# Hey There, I am Shaikh Ismail.
+# Hey There, I am Shaikh Ismail .
 
 ###  Student (Pursuing Bachelor's Degree in Computer Science) - Expected ( 2027 )
 
