@@ -15,9 +15,6 @@ I’m focused on Cloud, DevOps, and Automation, with a growing skill set in AWS,
 
 #### X-twitter : [X-twitter](https://x.com/Ismail_dcode/)
 
-#### Vercel : [Ismail's Vercel](https://vercel.com/ismails-projects-b436a609)
-
-
 #### LinkedIn : [LinkedIn Profile ](https://www.linkedin.com/in/ismail-shaikh-19798a335/)
 
 ### Contact Gmail : ismailpromt2i@gmail.com
