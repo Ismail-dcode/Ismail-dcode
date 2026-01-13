@@ -58,3 +58,8 @@ I’m focused on Cloud, DevOps, and Automation, with a growing skill set in AWS,
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ismail-dcode)](https://git.io/streak-stats)
+
+
+[![Ismail's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ismail-dcode&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ismail-dcode#gh-dark-mode-only)
+[![Ismail's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ismail-dcode&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ismail-dcode#gh-light-mode-only)
