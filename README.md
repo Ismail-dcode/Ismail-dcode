@@ -11,7 +11,7 @@ I’m focused on Cloud, DevOps, and Automation, with a growing skill set in AWS,
 
 ## 🌐 Socials:
 
-#### Portfolio: [Ismail's Portfolio](https://ismailshaikh.vercel.app/)
+#### Portfolio: [Ismail's Portfolio](https://ismailshaikh.in/)
 
 #### X-twitter : [X-twitter](https://x.com/Ismail_dcode/)
 
