@@ -6,7 +6,6 @@
 # 💫 About Me:
 I’m focused on Cloud, DevOps, and Automation, with a growing skill set in AWS, Linux, Docker, and GitHub Actions. development and I enjoy working on Development & Operations workflows building and automating cloud infrastructure, and learning how systems integrate efficiently in real-world environments.<br><br>I’m continuously adapting to new technologies and enhancing my understanding of cloud infrastructure, automation pipelines and scalable deployment practices.
 
-
 <br>
 
 ## 🌐 Socials:
