@@ -127,14 +127,6 @@ I enjoy understanding **how systems work behind the application layer** — from
 </p>
 
 ---
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
-
-</p>
-
----
 
 🧮 GitHub Contributions
 
@@ -146,7 +138,7 @@ I enjoy understanding **how systems work behind the application layer** — from
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="38%"/>
 
 </p>
 ---
