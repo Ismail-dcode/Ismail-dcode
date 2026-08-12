@@ -20,7 +20,11 @@
 <a href="mailto:ismailpromt2i@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=Ismail-dcode&label=Profile%20Views&color=58a6ff&style=flat-square"/>
+
+</div>
 </div>
 
 ---
@@ -191,8 +195,4 @@ If you're interested in **Cloud, DevOps, Linux, infrastructure or automation**, 
 
 ### ☁️ Build → Automate → Deploy → Observe → Improve
 
-<br>
 
-<img src="https://komarev.com/ghpvc/?username=Ismail-dcode&label=Profile%20Views&color=58a6ff&style=flat-square"/>
-
-</div>
