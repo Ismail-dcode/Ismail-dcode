@@ -1,52 +1,198 @@
-# Hey There, I am Shaikh Ismail .
+<div align="center">
 
-###  Student (Pursuing Bachelor's Degree in Computer Science & Engineering ) - Expected ( 2027 )
+# Hi, I'm Ismail 👋
+
+### ☁️ Cloud & DevOps Enthusiast · Linux · AWS · Automation
+
+**I build, automate and operate cloud infrastructure.**
+
 <br>
 
-# 💫 About Me:
-I’m focused on Cloud, DevOps, and Automation, with a growing skill set in AWS, Linux, Docker, and GitHub Actions. development and I enjoy working on Development & Operations workflows building and automating cloud infrastructure, and learning how systems integrate efficiently in real-world environments.<br><br>I’m continuously adapting to new technologies and enhancing my understanding of cloud infrastructure, automation pipelines and scalable deployment practices.
+<a href="https://www.ismailshaikh.in">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-ismailshaikh.in-111827?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/ismail-shaikh-19798a335/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Ismail-dcode">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:ismailpromt2i@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science & Engineering student**, graduating in **2027**, focused on building a career in **Cloud Engineering and DevOps**.
+
+My main interests are around the systems that make applications reliable and scalable:
+
+```text
+Cloud Infrastructure
+       ↓
+Linux & Networking
+       ↓
+Containers & Deployment
+       ↓
+CI/CD & Automation
+       ↓
+Monitoring & Reliability
+```
+
+I enjoy understanding **how systems work behind the application layer** — from Linux processes and networking to cloud infrastructure, containers and automated deployments.
+
+### Currently focused on
+
+* ☁️ AWS Cloud Infrastructure
+* 🐧 Linux Administration
+* 🐳 Docker & Containers
+* 🔄 CI/CD Automation
+* 🔐 Cloud Security & IAM
+* 🌐 Networking & Reverse Proxies
+* 📊 Monitoring & Reliability
+* ⚙️ Infrastructure Automation
+
+---
+
+## 🧰 Technologies I Work With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,redhat" height="48"/>
+</p>
+
+**Cloud:** AWS • Microsoft Azure  
+**Infrastructure:** Red Hat • Linux
+
+### DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,nginx,bash" height="48"/>
+</p>
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,react,python,cpp,html,css" height="48"/>
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,vercel" height="48"/>
+</p>
+
+---
+
+## 🏅 Certification
+
+### 🔴 Red Hat Certified System Administrator (RHCSA)
+<p align="center">
+  <b>Red Hat Certified System Administrator</b><br>
+  Linux Administration • Systemd • SELinux • LVM • Networking • Firewalld • Podman
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/6024e930-ed6a-45c8-8b42-a9fc3bbe3a1a/public_url">
+    <img src="https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" />
+  </a>
+</p>
+---
+
+## 📈 GitHub Activity
+
+> **Real activity from my GitHub profile — automatically updated.**
+
+### ⚡ Overview
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ismail-dcode&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-dcode&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e" height="180"/>
+
+</p>
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ismail-dcode&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
+
+</p>
+
+---
+
+🧮 GitHub Contributions
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ismail-dcode&theme=github_dark" width="100%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
+
+</p>
+---
+
+## 🌱 Beyond the Code
+
+I'm interested in:
+
+* 🌍 Cloud infrastructure
+* ⚙️ System automation
+* 🐧 Linux internals
+* ☁️ Distributed systems
+* 🔐 Infrastructure security
+* 📈 Observability
+* 🤖 AI + Cloud
+* 🌎 Opportunities to work with global engineering teams
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in **Cloud, DevOps, Linux, infrastructure or automation**, feel free to connect.
+
+<p align="center">
+
+<a href="https://www.ismailshaikh.in">
+<img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ismail-shaikh-19798a335/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Ismail_dcode">
+<img src="https://img.shields.io/badge/X-Follow-58a6ff?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ☁️ Build → Automate → Deploy → Observe → Improve
 
 <br>
 
-## 🌐 Socials:
+<img src="https://komarev.com/ghpvc/?username=Ismail-dcode&label=Profile%20Views&color=58a6ff&style=flat-square"/>
 
-#### Portfolio: [Ismail's Portfolio](https://ismailshaikh.in/)
-
-#### X-twitter : [X-twitter](https://x.com/Ismail_dcode/)
-
-#### LinkedIn : [LinkedIn Profile ](https://www.linkedin.com/in/ismail-shaikh-19798a335/)
-
-### Contact Gmail : ismailpromt2i@gmail.com
-<br>
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?logo=icloud&logoColor=white&style=for-the-badge)
-![Virtual Machines](https://img.shields.io/badge/VMs-0078D6?logo=virtualbox&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Red Hat](https://img.shields.io/badge/RedHat-EE0000?logo=redhat&logoColor=white&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ismail-Dcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ismail-Dcode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Dcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ismail-dcode?cardType=level&theme=darcula&fontFamily=Abyssinica%20SIL&preferLogin=false)](https://git.io/awesome-stats-card)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+</div>
