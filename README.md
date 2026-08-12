@@ -138,10 +138,9 @@ I enjoy understanding **how systems work behind the application layer** — from
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="38%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
 
 </p>
----
 
 ## 🌱 Beyond the Code
 
