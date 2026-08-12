@@ -101,7 +101,6 @@ I enjoy understanding **how systems work behind the application layer** — from
     <img src="https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" />
   </a>
 </p>
----
 
 ## 📈 GitHub Activity
 
