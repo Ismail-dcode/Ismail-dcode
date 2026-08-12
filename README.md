@@ -1,5 +1,5 @@
 <div align="center">
-<div align="center"> <!-- Animated typing intro --> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Ismail+Shaikh+%F0%9F%91%8B;Cloud+%7C+DevOps+%7C+Automation;RHCSA+Certified+%7C+AWS+%7C+Docker+%7C+Linux;Building+in+public,+one+commit+at+a+time.&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=800&color=58A6FF&vCenter=true&size=34" alt="Typing SVG" /> <br>
+<div align="center"> <!-- Animated typing intro --> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Ismail+Shaikh+%F0%9F%91%8B;Cloud+%7C+DevOps+%7C+Automation;RHCSA+Certified+%7C+AWS+%7C+Docker+%7C+Linux;Building+in+public,+one+commit+at+a+time.&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=800&color=58A6FF&vCenter=true&size=30" alt="Typing SVG" /> <br>
 
 ### ☁️ Cloud & DevOps Enthusiast · Linux · AWS · Automation
 
