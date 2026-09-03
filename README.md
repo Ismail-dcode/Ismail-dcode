@@ -89,12 +89,7 @@ I'm a **Computer Science & Engineering student**, graduating in **2027**, focuse
 ## 🌱 Open Source Contributions
 
 <!-- Auto-updated list of your merged/open PRs across repos -->
-![Open Source PRs](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:Ismail-dcode+type:pr&label=Total%20PRs&query=%24.total_count&color=blue)
-
-<!-- Snake contribution animation (needs a GitHub Action, see below) -->
-<img src="https://raw.githubusercontent.com/Ismail-dcode/Ismail-dcode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-
+![Open Source PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253AIsmail-dcode%2520type%253Apr&label=Total%20PRs&query=%24.total_count&color=blue)
 
 <p align="center">
   <img
