@@ -29,32 +29,6 @@
 
 I'm a **Computer Science & Engineering student**, graduating in **2027**, focused on building a career in **Cloud Engineering and DevOps**.
 
-My main interests are around the systems that make applications reliable and scalable:
-
-```text
-Cloud Infrastructure
-       ↓
-Linux & Networking
-       ↓
-Containers & Deployment
-       ↓
-CI/CD & Automation
-       ↓
-Monitoring & Reliability
-```
-
-I enjoy understanding **how systems work behind the application layer** — from Linux processes and networking to cloud infrastructure, containers and automated deployments.
-
-### Currently focused on
-
-* ☁️ AWS Cloud Infrastructure
-* 🐧 Linux Administration
-* 🐳 Docker & Containers
-* 🔄 CI/CD Automation
-* 🔐 Cloud Security & IAM
-* 🌐 Networking & Reverse Proxies
-* 📊 Monitoring & Reliability
-* ⚙️ Infrastructure Automation
 
 ---
 
@@ -86,7 +60,6 @@ I enjoy understanding **how systems work behind the application layer** — from
 </p>
 
 ---
-
 ## 🏅 Certification
 
 ### 🔴 Red Hat Certified System Administrator (RHCSA)
@@ -100,11 +73,7 @@ I enjoy understanding **how systems work behind the application layer** — from
     <img src="https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" />
   </a>
 </p>
-
-## 📈 GitHub Activity
-
-> **Real activity from my GitHub profile — automatically updated.**
-
+---
 ### ⚡ Overview
 
 <p align="center">
@@ -116,6 +85,16 @@ I enjoy understanding **how systems work behind the application layer** — from
 </p>
 
 ### 📊 Contribution Activity
+
+## 🌱 Open Source Contributions
+
+<!-- Auto-updated list of your merged/open PRs across repos -->
+![Open Source PRs](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:Ismail-dcode+type:pr&label=Total%20PRs&query=%24.total_count&color=blue)
+
+<!-- Snake contribution animation (needs a GitHub Action, see below) -->
+<img src="https://raw.githubusercontent.com/Ismail-dcode/Ismail-dcode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
 
 <p align="center">
   <img
@@ -139,6 +118,33 @@ I enjoy understanding **how systems work behind the application layer** — from
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
 
 </p>
+
+My main interests are around the systems that make applications reliable and scalable:
+
+```text
+Cloud Infrastructure
+       ↓
+Linux & Networking
+       ↓
+Containers & Deployment
+       ↓
+CI/CD & Automation
+       ↓
+Monitoring & Reliability
+```
+
+I enjoy understanding **how systems work behind the application layer** — from Linux processes and networking to cloud infrastructure, containers and automated deployments.
+
+### Currently focused on
+
+* ☁️ AWS Cloud Infrastructure
+* 🐧 Linux Administration
+* 🐳 Docker & Containers
+* 🔄 CI/CD Automation
+* 🔐 Cloud Security & IAM
+* 🌐 Networking & Reverse Proxies
+* 📊 Monitoring & Reliability
+* ⚙️ Infrastructure Automation
 
 ## 🌱 Beyond the Code
 
