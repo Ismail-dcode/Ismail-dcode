@@ -74,7 +74,6 @@ I'm a **Computer Science & Engineering student**, graduating in **2027**, focuse
   </a>
 </p>
 ---
-### ⚡ Overview
 
 <p align="center">
 
