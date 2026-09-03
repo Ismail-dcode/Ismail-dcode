@@ -73,15 +73,10 @@ I'm a **Computer Science & Engineering student**, graduating in **2027**, focuse
     <img src="https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" />
   </a>
 </p>
+
 ---
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ismail-dcode&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-dcode&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e" height="180"/>
-
-</p>
 
 ### 📊 Contribution Activity
 
