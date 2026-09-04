@@ -87,9 +87,7 @@ I'm a **Computer Science & Engineering student**, graduating in **2027**, focuse
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ismail-dcode&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&chart_color=39d353&bg_color=0d1117" alt="Ismail's GitHub stats">
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&chart_color=39d353&bg_color=0d1117" alt="Top languages">
 <img width="780" src="https://github-readme-streak-stats-eight.vercel.app?user=Ismail-dcode&theme=green-nur&hide_border=true" alt="GitHub streak">
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Ismail-dcode&theme=github-dark&color=39d353&line=39d353&point=39d353&area_color=39d353&hide_border=true&area=true" alt="GitHub activity graph">
 </div>
----
 
 🧮 GitHub Contributions
 
