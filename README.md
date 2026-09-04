@@ -81,17 +81,14 @@ I'm a **Computer Science & Engineering student**, graduating in **2027**, focuse
 ### 📊 Contribution Activity
 
 ## 🌱 Open Source Contributions
-
 <!-- Auto-updated list of your merged/open PRs across repos -->
-![Open Source PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253AIsmail-dcode%2520type%253Apr&label=Total%20PRs&query=%24.total_count&color=blue)
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ismail-dcode&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Streak"
-  />
-</p>
-
+![Open Source PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253AIsmail-dcode%2520type%253Apr&label=Total%20PRs&query=%24.total_count&color=1a7f37)
+<div align="center">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ismail-dcode&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&chart_color=39d353&bg_color=0d1117" alt="Ismail's GitHub stats">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark&title_color=39d353&icon_color=39d353&text_color=c9d1d9&chart_color=39d353&bg_color=0d1117" alt="Top languages">
+<img width="780" src="https://github-readme-streak-stats-eight.vercel.app?user=Ismail-dcode&theme=green-nur&hide_border=true" alt="GitHub streak">
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Ismail-dcode&theme=github-dark&color=39d353&line=39d353&point=39d353&area_color=39d353&hide_border=true&area=true" alt="GitHub activity graph">
+</div>
 ---
 
 🧮 GitHub Contributions
@@ -99,12 +96,6 @@ I'm a **Computer Science & Engineering student**, graduating in **2027**, focuse
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ismail-dcode&theme=github_dark" width="100%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ismail-dcode&theme=github_dark" width="48%"/>
 
 </p>
 
