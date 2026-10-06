@@ -74,6 +74,18 @@ I'm a **Computer Science & Engineering student**, graduating in **2027**, focuse
   </a>
 </p>
 
+### 🟠 AWS Certified Solutions Architect – Associate (SAA-C03)
+<p align="center">
+  <b>AWS Certified Solutions Architect – Associate</b><br>
+  AWS Architecture • EC2 • S3 • VPC • IAM • RDS • CloudFront • Auto Scaling
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/9cff975b-e2dd-4c4c-ac9f-e97eb92f183e/public_url">
+    <img src="https://images.credly.com/size/220x220/images/272a0e6a-7b3d-4c1c-9b8a-9e5b3e4c3e7e/AWS-Badge.png" />
+  </a>
+</p>
+
 ---
 
 
